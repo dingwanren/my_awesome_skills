@@ -11,10 +11,10 @@ A personal collection of reusable skills, code snippets, and best practices I've
 ### Skills Included
 
 #### 1. Ant Design X 📘
-Documentation of Ant Design components usage scenarios, APIs, and example code.
-- **Purpose**: Quick reference for Ant Design component implementation
+Documentation of Ant Design X components usage scenarios, APIs, and example code.
+- **Purpose**: Quick reference for Ant Design X component implementation
 - **Content**: Usage scenarios, API references, code examples
-- **Use Case**: When you need to quickly implement UI components with Ant Design
+- **Use Case**: When you need to quickly implement UI components with Ant Design X
 
 #### 2. Debug Record 🔍
 A structured format for recording questions and solutions when interacting with AI agents.
@@ -39,10 +39,10 @@ MIT
 ### 包含的技能
 
 #### 1. Ant Design X 📘
-记录 Ant Design 组件的使用场景、API 和示例代码。
-- **目的**：Ant Design 组件实现的快速参考
+记录 Ant Design X 组件的使用场景、API 和示例代码。
+- **目的**：Ant Design X 组件实现的快速参考
 - **内容**：使用场景、API 参考、代码示例
-- **适用场景**：需要快速实现 Ant Design UI 组件时
+- **适用场景**：需要快速实现 Ant Design X 组件时
 
 #### 2. 调试记录 🔍
 与AI助手交互时，按特定格式记录问题和解决方案。
